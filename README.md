@@ -1,0 +1,4 @@
+Tomás Vargas Vieira
+
+Tenho gostado bastante do curso, e da comunidade +PraTI como um todo. Tanto os funcionários da +PraTI quanto os próprios alunos são bastante prestativos.
+Já sabia bastante de HTML/CSS antes de começar o curso, então ele tem sido uma boa revisão de conteudos pra mim. Mas também vim a trabalhar com coisas novas, como o bootstrap, que embora eu ja sabia como funcionasse e seu proposito, nunca havia trabalhado com o mesmo. Estou empolgado com a proxima etapa do curso em React, que é uma linguagem que eu também conheço mas bem menos do que HTML/CSS em si, e o que eu sei é usando SCSS, aprender sobre StyledComponents vai ser ótimo!
